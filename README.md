@@ -1,14 +1,14 @@
-## Net Salary Calculation
+# Net Salary Calculation
 
 This project is a simple tax-based net salary calculation in Brazil. It considers gross salary, taxes and state benefits.
 
-# How to use
+## How to use
 
 Set gross salary and state benefit.
 The taxCalc(payment) function calculates the tax rate based on gross salary.
 Net pay is calculated by subtracting taxes from gross pay and adding the state benefit.
 
-# How it works
+## How it works
 
 ```javascript
 let payment = parseFloat("10578");
